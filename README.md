@@ -14,4 +14,4 @@ Hi there! I'm Hui En, a self-taught and currently master student in data enginee
 
 
 ## Portfolio
-In my portfolio, you can find my [projects](https://www.notion.so/Portfolio-4adf767344fb4499bcc8893cc3de25be?pvs=4) and my sharing on [free self-learning medium](https://github.com/NguHE/Self-Learning-Medium) on website
+In my portfolio, you can find my [projects](https://cloudy-redcurrant-3c4.notion.site/Portfolio-ccdbf1fe72aa461eb2dee25c28874ede) and my sharing on [free self-learning medium](https://github.com/NguHE/Self-Learning-Medium) on website
