@@ -1,6 +1,6 @@
 Hi there 👋, I'm Ngu Hui En 
 
-🏫 I'm currently a master student in University of Waterloo
+🏫 I'm currently a master student in Asia Pacific University, Malaysia
 
 📫 How to reach me:
 
