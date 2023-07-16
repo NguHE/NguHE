@@ -1,5 +1,5 @@
 # Introducing Myself 🙋🏻‍♀️
-Hi there! I'm Hui En, a self-taught and currently master student in data engineering from Malaysia. With a background in agricultural science (major in aquaculture), I transitioned to data in 2023.
+Hi there! I'm Hui En, a self-taught and currently master student in data engineering from Malaysia. With a background in agricultural science (major in aquaculture), I transitioned to data field in 2023.
 
 
 🏫 I'm currently a master student in Asia Pacific University, Malaysia
