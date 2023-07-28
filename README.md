@@ -1,8 +1,9 @@
 # Introducing Myself 🙋🏻‍♀️
-![introduce](https://github.com/NguHE/profile/assets/125574265/2210cb0f-9932-4a7f-a52c-65a27a2f2525)
+![introduce - Copy](https://github.com/NguHE/profile/assets/125574265/3ea3705c-e0a4-4c7a-b3d9-eab51c6dcdd5)
 
 Hi there! I'm Hui En, a self-taught and currently master student in data science and business anaytics (major in data engineering) from Malaysia. With a background in agricultural science (major in aquaculture), I transitioned to data field in 2023.
 
+👩 Self-driven and detail-oriented. Complete projects in a timely manner. Driven with passion for delivering high-quality work.
 
 🏫 I'm currently a master student in Asia Pacific University (APU), Malaysia
 
