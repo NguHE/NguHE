@@ -3,7 +3,7 @@
 
 ### ✨ Something About Me in 30 seconds ✨
 
-Hi there! I'm Hui En. I transition from a background in the sciences to the dynamic realm of Data Science in 2023. 
+Hi there! I'm Hui En. In 2023, I transitioned from a background in the sciences to the dynamic realm of Data Science.
 
 🏫 Currently a master student (Data Science and Business Analytics major in Data Engineering) in Asia Pacific University (APU), Malaysia
 
