@@ -17,6 +17,10 @@ Hi there! I'm Hui En. In 2023, I transitioned from a background in the sciences 
 🌐 **LinkedIn:** https://www.linkedin.com/in/nguhe2000/
 
 🌐 **Kaggle:** https://www.kaggle.com/huienngu
+
+🌐 **Github:** https://github.com/NguHE
+
+📊 **Tableau:** https://public.tableau.com/app/profile/hui.en.ngu
 <br></br>
 ## Portfolio
 In my portfolio, you can find my [projects](https://www.notion.so/nguhe/Ngu-Hui-En-4217096a7af1496eb0c891cd0332f914?pvs=4)
