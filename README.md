@@ -28,4 +28,8 @@ In my portfolio, you can find my [projects](https://www.notion.so/nguhe/Ngu-Hui-
 ## Skills
 💻 **Languages:** Python | R | SQL | SAS | HTML | CSS | 
 
-🛠️ **Tools:** SAP Lumira Discovery | IBM SPSS | Weka | Power BI | Excel | Canva | Big Query | Looker
+🛠️ **Tools:** SAP Lumira Discovery | Power BI | Looker | Tableau | 
+IBM SPSS | Weka | Canva | Google Big Query | Tableau Prep |
+
+## Hobbies
+🔧 **Others:** Piano (Diploma ATCL), Guitar, Drum, Bass, Music Composition, Video Editing, Photography Editing (Currently learning Adobe Lightroom), Scuba Diving (NDL - Advanced Universal Diver)
