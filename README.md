@@ -23,7 +23,7 @@ Hi there! I'm Hui En. In 2023, I transitioned from a background in the sciences 
 📊 **Tableau:** https://public.tableau.com/app/profile/hui.en.ngu
 <br></br>
 ## Portfolio
-In my portfolio, you can find my [projects](https://nguhe.notion.site/Ngu-Hui-En-4217096a7af1496eb0c891cd0332f914?pvs=4)
+In my portfolio, you can find my [projects](https://nguhe.notion.site/nguhe/Ngu-Hui-En-4217096a7af1496eb0c891cd0332f914)
 <br></br>
 ## Skills
 💻 **Languages:** Python | R | SQL | SAS | HTML | CSS | 
