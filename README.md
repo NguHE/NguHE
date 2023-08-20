@@ -28,7 +28,7 @@ In my portfolio, you can find my [projects](https://nguhe.notion.site/nguhe/Ngu-
 ## Skills
 💻 **Languages:** Python | R | SQL | SAS | HTML | CSS | 
 
-🛠️ **Tools:** SAP Lumira Discovery | Power BI | Looker | Tableau | 
+🛠️ **Tools:** SAP Lumira Discovery | Looker | Tableau | 
 IBM SPSS | Weka | Canva | Google Big Query | Tableau Prep |
 
 ## Hobbies
