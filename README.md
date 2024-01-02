@@ -20,16 +20,24 @@ Hi there! I'm Hui En. In 2023, I transitioned from a background in the sciences 
 
 🌐 **Github:** https://github.com/NguHE
 
+🌐 **Medium:** https://medium.com/@nguhe
+
 📊 **Tableau:** https://public.tableau.com/app/profile/hui.en.ngu
+
 <br></br>
 ## Portfolio
 In my portfolio, you can find my [projects](https://nguhe.notion.site/nguhe/Ngu-Hui-En-4217096a7af1496eb0c891cd0332f914)
 <br></br>
 ## Skills
-💻 **Languages:** Python | R | SQL | SAS | HTML | CSS | 
+💻 **Languages:** Python | R | SQL | SAS | HTML | CSS | Bash | Shell
 
-🛠️ **Tools:** SAP Lumira Discovery | Looker | Tableau | 
-IBM SPSS | Weka | Canva | Google Big Query | Tableau Prep |
+🛠️ **Tools:** 
+
+**Visualization:** Tableau | SAP Lumira Discovery | Power BI | Looker
+
+**Statistic:** IBM SPSS
+
+**Software/ Tools:** SAS Enterprise Miner | Weka | Tableau Prep Builder | Google Big Query | pgAdmin | Figma | Canva | Excel | PowerPoint
 
 ## Hobbies
-🔧 **Others:** Piano (Diploma ATCL), Guitar, Drum, Bass, Music Composition, Video Editing, Photography Editing (Currently learning Adobe Lightroom), Scuba Diving (NDL - Advanced Universal Diver)
+🔧 **Others:** Piano (Diploma ATCL), Guitar, Drum, Bass, Music Composition, Video Editing, Photography Editing, Scuba Diving (NDL - Advanced Universal Diver)
